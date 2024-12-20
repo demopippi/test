@@ -1,5 +1,8 @@
 # test
 
+おもしろいこと？
+会社でSNSは使ってはいけません
+
 ## mermaid sample
 
 ```mermaid
